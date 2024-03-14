@@ -1,0 +1,1 @@
+Items work, but the description doesn't match the product. These are not RGBW Led, they were instead RGB.

@@ -1,0 +1,1 @@
+My application of this is to plug three guitars in to my pedalboard (see pics).  It is noiseless, and shows no tone-sucking qualities at all.  It runs well off a 9-volt or a Dunlop DC Brick, although that is just for the function of the lights.  It also works with no power at all (but the lights come in handy to know which selection is ON).

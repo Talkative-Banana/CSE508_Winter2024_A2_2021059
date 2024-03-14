@@ -1,0 +1,4 @@
+This pick guard WILL NOT fit a Made in Indonesia Squire Tele Standard.
+I had no idea that the spec had changed between the MIM Squires and the MII Squires. Apparently the Indonesian made Squire Teles have 22 frets instead of 21. -- Someone should really update the description details to include this information,
+
+The result is that the extra fret pushes the pickup down so it no longer lines up. (See picture) The only way to get this thing to fit would be to dremmel it. I don't have a dremmel. I also think it would look horrible to have to saw out that much plastic.
