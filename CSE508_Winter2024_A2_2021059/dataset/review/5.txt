@@ -1,0 +1,1 @@
+Unfortunately this switch creates a large pop when switch on or off. For a DJ or game announcer it is entirely unacceptable to have a big pop every time the mic mutes or un-mutes. It would have only added a very small margin to have done this right. The engineer in me wanted to take it apart and add a resister and cap to fix the problem. I chose to return it.

@@ -1,0 +1,5 @@
+The quality of the case is all metal
+The motherboard (if you will) is laid out nicely
+The unit uses a TI LM2596 Votage Regulator
+Looks good and works good as I tested with 200ma and 100 ma pedals.
+Not sure of their other power supplies but this one is really nice for a small pedal board.
